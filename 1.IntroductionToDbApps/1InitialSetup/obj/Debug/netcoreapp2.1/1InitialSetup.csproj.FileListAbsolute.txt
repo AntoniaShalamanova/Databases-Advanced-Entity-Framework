@@ -1,0 +1,11 @@
+D:\DatabasesAdvancedEntityFramework\IntroductionToDbAppsExercises\1InitialSetup\bin\Debug\netcoreapp2.1\1InitialSetup.deps.json
+D:\DatabasesAdvancedEntityFramework\IntroductionToDbAppsExercises\1InitialSetup\bin\Debug\netcoreapp2.1\1InitialSetup.runtimeconfig.json
+D:\DatabasesAdvancedEntityFramework\IntroductionToDbAppsExercises\1InitialSetup\bin\Debug\netcoreapp2.1\1InitialSetup.runtimeconfig.dev.json
+D:\DatabasesAdvancedEntityFramework\IntroductionToDbAppsExercises\1InitialSetup\bin\Debug\netcoreapp2.1\1InitialSetup.dll
+D:\DatabasesAdvancedEntityFramework\IntroductionToDbAppsExercises\1InitialSetup\obj\Debug\netcoreapp2.1\1InitialSetup.csproj.CoreCompileInputs.cache
+D:\DatabasesAdvancedEntityFramework\IntroductionToDbAppsExercises\1InitialSetup\obj\Debug\netcoreapp2.1\1InitialSetup.AssemblyInfoInputs.cache
+D:\DatabasesAdvancedEntityFramework\IntroductionToDbAppsExercises\1InitialSetup\obj\Debug\netcoreapp2.1\1InitialSetup.AssemblyInfo.cs
+D:\DatabasesAdvancedEntityFramework\IntroductionToDbAppsExercises\1InitialSetup\bin\Debug\netcoreapp2.1\1InitialSetup.pdb
+D:\DatabasesAdvancedEntityFramework\IntroductionToDbAppsExercises\1InitialSetup\obj\Debug\netcoreapp2.1\1InitialSetup.csprojAssemblyReference.cache
+D:\DatabasesAdvancedEntityFramework\IntroductionToDbAppsExercises\1InitialSetup\obj\Debug\netcoreapp2.1\1InitialSetup.dll
+D:\DatabasesAdvancedEntityFramework\IntroductionToDbAppsExercises\1InitialSetup\obj\Debug\netcoreapp2.1\1InitialSetup.pdb

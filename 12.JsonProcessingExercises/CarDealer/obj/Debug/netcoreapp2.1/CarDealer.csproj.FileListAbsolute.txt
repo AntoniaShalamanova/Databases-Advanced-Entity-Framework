@@ -1,0 +1,22 @@
+C:\Users\Stoyan\Desktop\Car Dealer - Skeleton\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.deps.json
+C:\Users\Stoyan\Desktop\Car Dealer - Skeleton\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.runtimeconfig.json
+C:\Users\Stoyan\Desktop\Car Dealer - Skeleton\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.runtimeconfig.dev.json
+C:\Users\Stoyan\Desktop\Car Dealer - Skeleton\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.dll
+C:\Users\Stoyan\Desktop\Car Dealer - Skeleton\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.pdb
+C:\Users\Stoyan\Desktop\Car Dealer - Skeleton\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.csprojAssemblyReference.cache
+C:\Users\Stoyan\Desktop\Car Dealer - Skeleton\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.csproj.CoreCompileInputs.cache
+C:\Users\Stoyan\Desktop\Car Dealer - Skeleton\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.AssemblyInfoInputs.cache
+C:\Users\Stoyan\Desktop\Car Dealer - Skeleton\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.AssemblyInfo.cs
+C:\Users\Stoyan\Desktop\Car Dealer - Skeleton\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.dll
+C:\Users\Stoyan\Desktop\Car Dealer - Skeleton\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.pdb
+D:\DatabasesAdvancedEntityFramework\JsonProcessingExercises\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.deps.json
+D:\DatabasesAdvancedEntityFramework\JsonProcessingExercises\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.runtimeconfig.json
+D:\DatabasesAdvancedEntityFramework\JsonProcessingExercises\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.runtimeconfig.dev.json
+D:\DatabasesAdvancedEntityFramework\JsonProcessingExercises\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.dll
+D:\DatabasesAdvancedEntityFramework\JsonProcessingExercises\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.pdb
+D:\DatabasesAdvancedEntityFramework\JsonProcessingExercises\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.csprojAssemblyReference.cache
+D:\DatabasesAdvancedEntityFramework\JsonProcessingExercises\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.csproj.CoreCompileInputs.cache
+D:\DatabasesAdvancedEntityFramework\JsonProcessingExercises\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.AssemblyInfoInputs.cache
+D:\DatabasesAdvancedEntityFramework\JsonProcessingExercises\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.AssemblyInfo.cs
+D:\DatabasesAdvancedEntityFramework\JsonProcessingExercises\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.dll
+D:\DatabasesAdvancedEntityFramework\JsonProcessingExercises\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.pdb

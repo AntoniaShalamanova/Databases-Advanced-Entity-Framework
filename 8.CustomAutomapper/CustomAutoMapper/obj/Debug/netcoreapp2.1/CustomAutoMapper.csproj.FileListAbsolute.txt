@@ -1,0 +1,11 @@
+D:\DatabasesAdvancedEntityFramework\8CustomAutomapper\CustomAutoMapper\bin\Debug\netcoreapp2.1\CustomAutoMapper.deps.json
+D:\DatabasesAdvancedEntityFramework\8CustomAutomapper\CustomAutoMapper\bin\Debug\netcoreapp2.1\CustomAutoMapper.runtimeconfig.json
+D:\DatabasesAdvancedEntityFramework\8CustomAutomapper\CustomAutoMapper\bin\Debug\netcoreapp2.1\CustomAutoMapper.runtimeconfig.dev.json
+D:\DatabasesAdvancedEntityFramework\8CustomAutomapper\CustomAutoMapper\bin\Debug\netcoreapp2.1\CustomAutoMapper.dll
+D:\DatabasesAdvancedEntityFramework\8CustomAutomapper\CustomAutoMapper\bin\Debug\netcoreapp2.1\CustomAutoMapper.pdb
+D:\DatabasesAdvancedEntityFramework\8CustomAutomapper\CustomAutoMapper\obj\Debug\netcoreapp2.1\CustomAutoMapper.csprojAssemblyReference.cache
+D:\DatabasesAdvancedEntityFramework\8CustomAutomapper\CustomAutoMapper\obj\Debug\netcoreapp2.1\CustomAutoMapper.csproj.CoreCompileInputs.cache
+D:\DatabasesAdvancedEntityFramework\8CustomAutomapper\CustomAutoMapper\obj\Debug\netcoreapp2.1\CustomAutoMapper.AssemblyInfoInputs.cache
+D:\DatabasesAdvancedEntityFramework\8CustomAutomapper\CustomAutoMapper\obj\Debug\netcoreapp2.1\CustomAutoMapper.AssemblyInfo.cs
+D:\DatabasesAdvancedEntityFramework\8CustomAutomapper\CustomAutoMapper\obj\Debug\netcoreapp2.1\CustomAutoMapper.dll
+D:\DatabasesAdvancedEntityFramework\8CustomAutomapper\CustomAutoMapper\obj\Debug\netcoreapp2.1\CustomAutoMapper.pdb

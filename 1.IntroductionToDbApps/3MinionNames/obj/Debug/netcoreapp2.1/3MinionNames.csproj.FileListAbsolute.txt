@@ -1,0 +1,14 @@
+D:\DatabasesAdvancedEntityFramework\IntroductionToDbAppsExercises\3MinionNames\obj\Debug\netcoreapp2.1\3MinionNames.csprojAssemblyReference.cache
+D:\DatabasesAdvancedEntityFramework\IntroductionToDbAppsExercises\3MinionNames\obj\Debug\netcoreapp2.1\3MinionNames.csproj.CoreCompileInputs.cache
+D:\DatabasesAdvancedEntityFramework\IntroductionToDbAppsExercises\3MinionNames\obj\Debug\netcoreapp2.1\3MinionNames.AssemblyInfoInputs.cache
+D:\DatabasesAdvancedEntityFramework\IntroductionToDbAppsExercises\3MinionNames\obj\Debug\netcoreapp2.1\3MinionNames.AssemblyInfo.cs
+D:\DatabasesAdvancedEntityFramework\IntroductionToDbAppsExercises\3MinionNames\bin\Debug\netcoreapp2.1\3MinionNames.deps.json
+D:\DatabasesAdvancedEntityFramework\IntroductionToDbAppsExercises\3MinionNames\bin\Debug\netcoreapp2.1\3MinionNames.runtimeconfig.json
+D:\DatabasesAdvancedEntityFramework\IntroductionToDbAppsExercises\3MinionNames\bin\Debug\netcoreapp2.1\3MinionNames.runtimeconfig.dev.json
+D:\DatabasesAdvancedEntityFramework\IntroductionToDbAppsExercises\3MinionNames\bin\Debug\netcoreapp2.1\3MinionNames.dll
+D:\DatabasesAdvancedEntityFramework\IntroductionToDbAppsExercises\3MinionNames\bin\Debug\netcoreapp2.1\3MinionNames.pdb
+D:\DatabasesAdvancedEntityFramework\IntroductionToDbAppsExercises\3MinionNames\bin\Debug\netcoreapp2.1\1InitialSetup.dll
+D:\DatabasesAdvancedEntityFramework\IntroductionToDbAppsExercises\3MinionNames\bin\Debug\netcoreapp2.1\1InitialSetup.pdb
+D:\DatabasesAdvancedEntityFramework\IntroductionToDbAppsExercises\3MinionNames\obj\Debug\netcoreapp2.1\3MinionNames.csproj.CopyComplete
+D:\DatabasesAdvancedEntityFramework\IntroductionToDbAppsExercises\3MinionNames\obj\Debug\netcoreapp2.1\3MinionNames.dll
+D:\DatabasesAdvancedEntityFramework\IntroductionToDbAppsExercises\3MinionNames\obj\Debug\netcoreapp2.1\3MinionNames.pdb

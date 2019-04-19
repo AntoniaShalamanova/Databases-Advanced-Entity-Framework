@@ -1,0 +1,14 @@
+D:\DatabasesAdvancedEntityFramework\6AdvancedRelations\BillsPaymentSystem.Data\bin\Debug\netcoreapp2.1\BillsPaymentSystem.Data.deps.json
+D:\DatabasesAdvancedEntityFramework\6AdvancedRelations\BillsPaymentSystem.Data\bin\Debug\netcoreapp2.1\BillsPaymentSystem.Data.dll
+D:\DatabasesAdvancedEntityFramework\6AdvancedRelations\BillsPaymentSystem.Data\obj\Debug\netcoreapp2.1\BillsPaymentSystem.Data.csprojAssemblyReference.cache
+D:\DatabasesAdvancedEntityFramework\6AdvancedRelations\BillsPaymentSystem.Data\obj\Debug\netcoreapp2.1\BillsPaymentSystem.Data.csproj.CoreCompileInputs.cache
+D:\DatabasesAdvancedEntityFramework\6AdvancedRelations\BillsPaymentSystem.Data\obj\Debug\netcoreapp2.1\BillsPaymentSystem.Data.AssemblyInfoInputs.cache
+D:\DatabasesAdvancedEntityFramework\6AdvancedRelations\BillsPaymentSystem.Data\obj\Debug\netcoreapp2.1\BillsPaymentSystem.Data.AssemblyInfo.cs
+D:\DatabasesAdvancedEntityFramework\6AdvancedRelations\BillsPaymentSystem.Data\bin\Debug\netcoreapp2.1\BillsPaymentSystem.Models.dll
+D:\DatabasesAdvancedEntityFramework\6AdvancedRelations\BillsPaymentSystem.Data\bin\Debug\netcoreapp2.1\BillsPaymentSystem.Data.runtimeconfig.json
+D:\DatabasesAdvancedEntityFramework\6AdvancedRelations\BillsPaymentSystem.Data\bin\Debug\netcoreapp2.1\BillsPaymentSystem.Data.runtimeconfig.dev.json
+D:\DatabasesAdvancedEntityFramework\6AdvancedRelations\BillsPaymentSystem.Data\bin\Debug\netcoreapp2.1\BillsPaymentSystem.Data.pdb
+D:\DatabasesAdvancedEntityFramework\6AdvancedRelations\BillsPaymentSystem.Data\bin\Debug\netcoreapp2.1\BillsPaymentSystem.Models.pdb
+D:\DatabasesAdvancedEntityFramework\6AdvancedRelations\BillsPaymentSystem.Data\obj\Debug\netcoreapp2.1\BillsPaymentSystem.Data.csproj.CopyComplete
+D:\DatabasesAdvancedEntityFramework\6AdvancedRelations\BillsPaymentSystem.Data\obj\Debug\netcoreapp2.1\BillsPaymentSystem.Data.dll
+D:\DatabasesAdvancedEntityFramework\6AdvancedRelations\BillsPaymentSystem.Data\obj\Debug\netcoreapp2.1\BillsPaymentSystem.Data.pdb

@@ -1,0 +1,11 @@
+D:\DatabasesAdvancedEntityFramework\Exam\Cinema\obj\Debug\netcoreapp2.1\Cinema.csprojAssemblyReference.cache
+D:\DatabasesAdvancedEntityFramework\Exam\Cinema\obj\Debug\netcoreapp2.1\Cinema.csproj.CoreCompileInputs.cache
+D:\DatabasesAdvancedEntityFramework\Exam\Cinema\obj\Debug\netcoreapp2.1\Cinema.AssemblyInfoInputs.cache
+D:\DatabasesAdvancedEntityFramework\Exam\Cinema\obj\Debug\netcoreapp2.1\Cinema.AssemblyInfo.cs
+D:\DatabasesAdvancedEntityFramework\Exam\Cinema\bin\Debug\netcoreapp2.1\Cinema.deps.json
+D:\DatabasesAdvancedEntityFramework\Exam\Cinema\bin\Debug\netcoreapp2.1\Cinema.runtimeconfig.json
+D:\DatabasesAdvancedEntityFramework\Exam\Cinema\bin\Debug\netcoreapp2.1\Cinema.runtimeconfig.dev.json
+D:\DatabasesAdvancedEntityFramework\Exam\Cinema\bin\Debug\netcoreapp2.1\Cinema.dll
+D:\DatabasesAdvancedEntityFramework\Exam\Cinema\bin\Debug\netcoreapp2.1\Cinema.pdb
+D:\DatabasesAdvancedEntityFramework\Exam\Cinema\obj\Debug\netcoreapp2.1\Cinema.dll
+D:\DatabasesAdvancedEntityFramework\Exam\Cinema\obj\Debug\netcoreapp2.1\Cinema.pdb

@@ -1,0 +1,14 @@
+D:\DatabasesAdvancedEntityFramework\IntroductionToDbAppsExercises\2VillainNames\bin\Debug\netcoreapp2.1\2VillainNames.deps.json
+D:\DatabasesAdvancedEntityFramework\IntroductionToDbAppsExercises\2VillainNames\bin\Debug\netcoreapp2.1\2VillainNames.runtimeconfig.json
+D:\DatabasesAdvancedEntityFramework\IntroductionToDbAppsExercises\2VillainNames\bin\Debug\netcoreapp2.1\2VillainNames.runtimeconfig.dev.json
+D:\DatabasesAdvancedEntityFramework\IntroductionToDbAppsExercises\2VillainNames\bin\Debug\netcoreapp2.1\2VillainNames.dll
+D:\DatabasesAdvancedEntityFramework\IntroductionToDbAppsExercises\2VillainNames\obj\Debug\netcoreapp2.1\2VillainNames.csprojAssemblyReference.cache
+D:\DatabasesAdvancedEntityFramework\IntroductionToDbAppsExercises\2VillainNames\obj\Debug\netcoreapp2.1\2VillainNames.csproj.CoreCompileInputs.cache
+D:\DatabasesAdvancedEntityFramework\IntroductionToDbAppsExercises\2VillainNames\obj\Debug\netcoreapp2.1\2VillainNames.AssemblyInfoInputs.cache
+D:\DatabasesAdvancedEntityFramework\IntroductionToDbAppsExercises\2VillainNames\obj\Debug\netcoreapp2.1\2VillainNames.AssemblyInfo.cs
+D:\DatabasesAdvancedEntityFramework\IntroductionToDbAppsExercises\2VillainNames\bin\Debug\netcoreapp2.1\2VillainNames.pdb
+D:\DatabasesAdvancedEntityFramework\IntroductionToDbAppsExercises\2VillainNames\bin\Debug\netcoreapp2.1\1InitialSetup.dll
+D:\DatabasesAdvancedEntityFramework\IntroductionToDbAppsExercises\2VillainNames\bin\Debug\netcoreapp2.1\1InitialSetup.pdb
+D:\DatabasesAdvancedEntityFramework\IntroductionToDbAppsExercises\2VillainNames\obj\Debug\netcoreapp2.1\2VillainNames.csproj.CopyComplete
+D:\DatabasesAdvancedEntityFramework\IntroductionToDbAppsExercises\2VillainNames\obj\Debug\netcoreapp2.1\2VillainNames.dll
+D:\DatabasesAdvancedEntityFramework\IntroductionToDbAppsExercises\2VillainNames\obj\Debug\netcoreapp2.1\2VillainNames.pdb

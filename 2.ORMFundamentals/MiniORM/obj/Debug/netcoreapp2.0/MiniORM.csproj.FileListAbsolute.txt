@@ -1,0 +1,9 @@
+D:\DatabasesAdvancedEntityFramework\2ORMFundamentalsExercises\MiniORM\obj\Debug\netcoreapp2.0\MiniORM.csprojAssemblyReference.cache
+D:\DatabasesAdvancedEntityFramework\2ORMFundamentalsExercises\MiniORM\obj\Debug\netcoreapp2.0\MiniORM.csproj.CoreCompileInputs.cache
+D:\DatabasesAdvancedEntityFramework\2ORMFundamentalsExercises\MiniORM\obj\Debug\netcoreapp2.0\MiniORM.AssemblyInfoInputs.cache
+D:\DatabasesAdvancedEntityFramework\2ORMFundamentalsExercises\MiniORM\obj\Debug\netcoreapp2.0\MiniORM.AssemblyInfo.cs
+D:\DatabasesAdvancedEntityFramework\2ORMFundamentalsExercises\MiniORM\bin\Debug\netcoreapp2.0\MiniORM.deps.json
+D:\DatabasesAdvancedEntityFramework\2ORMFundamentalsExercises\MiniORM\bin\Debug\netcoreapp2.0\MiniORM.dll
+D:\DatabasesAdvancedEntityFramework\2ORMFundamentalsExercises\MiniORM\bin\Debug\netcoreapp2.0\MiniORM.pdb
+D:\DatabasesAdvancedEntityFramework\2ORMFundamentalsExercises\MiniORM\obj\Debug\netcoreapp2.0\MiniORM.dll
+D:\DatabasesAdvancedEntityFramework\2ORMFundamentalsExercises\MiniORM\obj\Debug\netcoreapp2.0\MiniORM.pdb

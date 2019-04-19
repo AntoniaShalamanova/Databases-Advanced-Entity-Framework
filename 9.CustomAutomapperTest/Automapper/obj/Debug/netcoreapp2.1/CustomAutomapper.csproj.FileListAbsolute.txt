@@ -1,0 +1,8 @@
+D:\DatabasesAdvancedEntityFramework\CustomAutomapperExercises\Automapper\bin\Debug\netcoreapp2.1\CustomAutomapper.deps.json
+D:\DatabasesAdvancedEntityFramework\CustomAutomapperExercises\Automapper\bin\Debug\netcoreapp2.1\CustomAutomapper.dll
+D:\DatabasesAdvancedEntityFramework\CustomAutomapperExercises\Automapper\bin\Debug\netcoreapp2.1\CustomAutomapper.pdb
+D:\DatabasesAdvancedEntityFramework\CustomAutomapperExercises\Automapper\obj\Debug\netcoreapp2.1\CustomAutomapper.csproj.CoreCompileInputs.cache
+D:\DatabasesAdvancedEntityFramework\CustomAutomapperExercises\Automapper\obj\Debug\netcoreapp2.1\CustomAutomapper.AssemblyInfoInputs.cache
+D:\DatabasesAdvancedEntityFramework\CustomAutomapperExercises\Automapper\obj\Debug\netcoreapp2.1\CustomAutomapper.AssemblyInfo.cs
+D:\DatabasesAdvancedEntityFramework\CustomAutomapperExercises\Automapper\obj\Debug\netcoreapp2.1\CustomAutomapper.dll
+D:\DatabasesAdvancedEntityFramework\CustomAutomapperExercises\Automapper\obj\Debug\netcoreapp2.1\CustomAutomapper.pdb
